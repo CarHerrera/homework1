@@ -1,0 +1,2 @@
+What is a remote repository?
+It's the central hub that holds all the information and all the code. This is where the main code gets pulled from.
